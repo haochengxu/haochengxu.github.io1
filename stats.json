@@ -1,60 +1,48 @@
 {
   "assetsByChunkName": {
+    "path---projects-counter": [
+      "path---projects-counter-586c7e095e534a3909ec.js",
+      "path---projects-counter-586c7e095e534a3909ec.js.map"
+    ],
     "path---write-something": [
       "path---write-something-fdbde7e5a1c9fdb5a698.js",
       "path---write-something-fdbde7e5a1c9fdb5a698.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-1500da0e2a098e24e8b9.js",
-      "page-component---src-pages-index-js-1500da0e2a098e24e8b9.js.map"
-    ],
-    "path---counter": [
-      "path---counter-586c7e095e534a3909ec.js",
-      "path---counter-586c7e095e534a3909ec.js.map"
+      "page-component---src-pages-index-js-26c0175e3335a50ac540.js",
+      "page-component---src-pages-index-js-26c0175e3335a50ac540.js.map"
     ],
     "page-component---src-templates-blog-post-js": [
-      "page-component---src-templates-blog-post-js-2134fa4efd35a0ccb446.js",
-      "page-component---src-templates-blog-post-js-2134fa4efd35a0ccb446.js.map"
+      "page-component---src-templates-blog-post-js-ae152e35d026ba09e966.js",
+      "page-component---src-templates-blog-post-js-ae152e35d026ba09e966.js.map"
     ],
     "path---neymar-tranfor": [
       "path---neymar-tranfor-64004fb3f82ca9251ae0.js",
       "path---neymar-tranfor-64004fb3f82ca9251ae0.js.map"
     ],
     "path---posts-listing": [
-      "path---posts-listing-81c8c66f56d52dd94c91.js",
-      "path---posts-listing-81c8c66f56d52dd94c91.js.map"
+      "path---posts-listing-3979d6e42b64ca1dabfa.js",
+      "path---posts-listing-3979d6e42b64ca1dabfa.js.map"
     ],
     "path---index": [
       "path---index-586c7e095e534a3909ec.js",
       "path---index-586c7e095e534a3909ec.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-6cb708e2ff33e5f98e2e.js",
-      "path---hello-world-6cb708e2ff33e5f98e2e.js.map"
-    ],
-    "path---my-second-gatsby-page": [
-      "path---my-second-gatsby-page-586c7e095e534a3909ec.js",
-      "path---my-second-gatsby-page-586c7e095e534a3909ec.js.map"
-    ],
-    "page-component---src-pages-my-second-gatsby-page-js": [
-      "page-component---src-pages-my-second-gatsby-page-js-35546766afd97f2366d9.js",
-      "page-component---src-pages-my-second-gatsby-page-js-35546766afd97f2366d9.js.map"
     ],
     "commons": [
       "commons-1d161c9095efc26fc08d.js",
       "commons-1d161c9095efc26fc08d.js.map"
     ],
     "app": [
-      "app-6540e841597ca8380c2b.js",
-      "app-6540e841597ca8380c2b.js.map"
+      "app-2ed20e4f1b805ca06496.js",
+      "app-2ed20e4f1b805ca06496.js.map"
     ],
-    "page-component---src-pages-counter-js": [
-      "page-component---src-pages-counter-js-e19923fc997c213e10b4.js",
-      "page-component---src-pages-counter-js-e19923fc997c213e10b4.js.map"
+    "page-component---src-pages-projects-counter-jsx": [
+      "page-component---src-pages-projects-counter-jsx-e19923fc997c213e10b4.js",
+      "page-component---src-pages-projects-counter-jsx-e19923fc997c213e10b4.js.map"
     ],
     "page-component---src-pages-posts-listing-js": [
-      "page-component---src-pages-posts-listing-js-370aa7668de4d04e823c.js",
-      "page-component---src-pages-posts-listing-js-370aa7668de4d04e823c.js.map"
+      "page-component---src-pages-posts-listing-js-5bca310f02eadd78ae89.js",
+      "page-component---src-pages-posts-listing-js-5bca310f02eadd78ae89.js.map"
     ]
   }
 }
